@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Models
+models/*.pkl
+
+# Streamlit Cache
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Reports
+*.pdf
+*.xlsx
+
+# OS Files
+.DS_Store
+Thumbs.db
