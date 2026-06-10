@@ -4,7 +4,7 @@
 
 Render Deployment URL:
 
-https://your-render-url.onrender.com
+https://intelligentsalesforecasting.onrender.com
 
 ---
 
