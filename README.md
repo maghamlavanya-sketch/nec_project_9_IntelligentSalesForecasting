@@ -1,4 +1,4 @@
-# Intelligent Sales Forecasting & Inventory Dashboard
+# Intelligent Sales Forecasting & Inventory Dashboard 
 
 ## Live Demo
 
